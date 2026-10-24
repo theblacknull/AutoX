@@ -1,0 +1,13 @@
+/target
+drafts/*
+!drafts/.gitkeep
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.DS_Store
+coverage/
+*.log
+node_modules/
+dist/
